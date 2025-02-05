@@ -22,6 +22,8 @@ Blue Kaizo: Game is in Full Color- Original still exists too. You have the optio
 
 These games were all tested numerous times, however, bugs do happen in games AND BUGS ARE FOUND based on other plays playstyle. SO If any bugs or issues are found, please reach out to SinisterHoodedFigure or myself!
 
+PATCH BLUE KAIZO AND INTENSE INDIGO TO POKEMON BLUE. PATCH CRYSTAL KAIZO TO POKEMON CRYSTAL
+
 Below is where you can find some other information about the games:
 https://www.pokecommunity.com/threads/pokemon-blue-kaizo-update-4-5-very-challenging-experience.322127/
 
