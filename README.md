@@ -14,11 +14,11 @@ I reached out to SinisterHoodedFigure about updating these games. He agreed and 
 
 Here is some information about the new updates.
 
-Intense Indigo: Game is in Full Color- Original still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. The Gen 2 graphics have the caught indicator and exp bar as well. Gym Leaders and Elite 4 have perfect DVs for their pokemon, and HMs are deletable.
+Intense Indigo: Game is in Full Color- Original graphics still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. The Gen 2 graphics have the caught indicator and exp bar as well. Gym Leaders and Elite 4 have perfect DVs for their pokemon, and HMs are deletable.
 
 Crystal Kaizo: Crystal Kaizo now has it when you use a repel and it wears off it will ask to use another. HMs are deletable, All stones to evolve eevee now say Able (Umbreon and Espeon Sun/Moon stones in the past would say Unable but would still evolve), Rare Candies in Indigo Plateau Mart for 1 dollar, Game Name now displays in Hall of Fame movie credit screen.
 
-Blue Kaizo: Game is in Full Color- Original still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. The Gen 2 graphics have the caught indicator and exp bar as well. Gym Leaders and Elite 4 have perfect DVs for their pokemon, and HMs are deletable. The Game Name now displays in Hall of Fame movie credit screen. Route 12 had a slight map change in one spot. THE BIGGEST BLUE KAIZO CHANGE IS ELITE 4 AND CHAMPION AI STYLE AND POKEMON PARTIES WERE UPDATED BY SINISTERHOODEDFIGURE.
+Blue Kaizo: Game is in Full Color- Original graphics still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. The Gen 2 graphics have the caught indicator and exp bar as well. Gym Leaders and Elite 4 have perfect DVs for their pokemon, and HMs are deletable. When Repels are done they will ask you if you want to use another. The Game Name now displays in Hall of Fame movie credit screen. Route 12 had a slight map change in one spot. THE BIGGEST BLUE KAIZO CHANGE IS ELITE 4 AND CHAMPION AI STYLE AND POKEMON PARTIES WERE UPDATED BY SINISTERHOODEDFIGURE.
 
 These games were all tested numerous times, however, bugs do happen in games AND BUGS ARE FOUND based on other plays playstyle. SO If any bugs or issues are found, please reach out to SinisterHoodedFigure or myself!
 
