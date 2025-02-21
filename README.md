@@ -14,7 +14,7 @@ I reached out to SinisterHoodedFigure about updating these games. He agreed and 
 
 Here is some information about the new updates.
 
-Intense Indigo: Game is in Full Color- Original graphics still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. HMs are deletable.
+Intense Indigo: Game is in Full Color- Original graphics still exists too. You have the option to play it with Gen 1 graphics in full color. HMs are deletable.
 
 Crystal Kaizo: Crystal Kaizo now has it when you use a repel and it wears off it will ask to use another. HMs are deletable, All stones to evolve eevee now say Able (Umbreon and Espeon Sun/Moon stones in the past would say Unable but would still evolve), Rare Candies in Indigo Plateau Mart for 1 dollar, Game Name now displays in Hall of Fame movie credit screen.
 
