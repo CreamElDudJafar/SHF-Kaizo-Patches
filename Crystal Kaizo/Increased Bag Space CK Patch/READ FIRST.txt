@@ -1,0 +1,3 @@
+*Note FOR CRYSTAL KAIZO 84 BAG SPACE: This will alter save compatibility. All current items and save file will be removed/corrupt.
+
+Also using a save editor like PKHEX will not work if you try to add items to your bag or PC.*
