@@ -2,7 +2,7 @@ Hello All reading this!
 
 My name is CreamElDudJafar. I am pleased to announced these are the new updated IPS Files for Crystal Kaizo, Blue Kaizo, Emerald Kaizo and Intense Indigo. 
 
-The update is the latest as of 03/12/2025
+The update is the latest as of 02/18/2026
 
 Blue Kaizo’s Last Major Update was 2016
 Crystal Kaizo’s Last Major Update was 2016
@@ -14,9 +14,12 @@ I reached out to SinisterHoodedFigure about updating these games. He agreed and 
 
 Here is some information about the new updates.
 
-Emerald Kaizo: New Title Screen with game name.
+
+Emerald Kaizo: New Title Screen with game name. Norman, Sydnye, Phoebe parties changed, certain Learnsets updated, Future Sight was added, Charmeleon EVs removed
+
 
 Intense Indigo: Game is in Full Color- Original graphics still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. The Gen 2 graphics have the caught indicator and exp bar as well. HMs are deletable.
+
 
 Crystal Kaizo: Crystal Kaizo now has it when you use a repel and it wears off it will ask to use another. HMs are deletable, All stones to evolve eevee now say Able (Umbreon and Espeon Sun/Moon stones in the past would say Unable but would still evolve), Rare Candies in Indigo Plateau Mart for 1 dollar, Game Name now displays in Hall of Fame movie credit screen. 2ND PATCH 84 BAG SPACE
 
@@ -37,7 +40,12 @@ These games were all tested numerous times, however, bugs do happen in games AND
 
 Most of Blue Kaizo documents uploaded were created by Buggford and Petessheets.
 
+
 PATCH BLUE KAIZO AND INTENSE INDIGO TO POKEMON BLUE. PATCH CRYSTAL KAIZO TO POKEMON CRYSTAL. PATCH EMERALD KAIZO TO POKEMON EMERALD.
+
+
+CAN BUILD OWN VERSION OF BLUE KAIZO IN DISASSEMBLY FROM HERE: https://github.com/CreamElDudJafar/Pokemon-Blue-Kaizo
+
 
 Below is where you can find some other information about the games:
 https://www.pokecommunity.com/threads/pokemon-blue-kaizo-update-4-5-very-challenging-experience.322127/
