@@ -16,15 +16,8 @@ I reached out to SinisterHoodedFigure about updating these games. He agreed and 
 Below is some information about the updates.
 
 <img width="720" height="671" alt="bk" src="https://github.com/user-attachments/assets/d4bdc170-bbca-431d-a378-9f950870a92e" />
-<img width="720" height="671" alt="bk" src="https://github.com/user-attachments/assets/d4bdc170-bbca-431d-a378-9f950870a92e" />
-
 <img width="985" height="668" alt="CK" src="https://github.com/user-attachments/assets/71da3295-7b35-45de-94f6-b0327ce4717c" />
-<img width="985" height="668" alt="CK" src="https://github.com/user-attachments/assets/71da3295-7b35-45de-94f6-b0327ce4717c" />
-
 <img width="1006" height="664" alt="EK" src="https://github.com/user-attachments/assets/fe3682eb-0438-4a07-a5ad-44ba31afc1b4" />
-<img width="1006" height="664" alt="EK" src="https://github.com/user-attachments/assets/fe3682eb-0438-4a07-a5ad-44ba31afc1b4" />
-
-<img width="719" height="649" alt="II" src="https://github.com/user-attachments/assets/f0ed6452-1591-493b-b3c9-d022bbbe599c" />
 <img width="719" height="649" alt="II" src="https://github.com/user-attachments/assets/f0ed6452-1591-493b-b3c9-d022bbbe599c" />
 
 
