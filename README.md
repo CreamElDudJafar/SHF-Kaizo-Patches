@@ -34,7 +34,7 @@ Crystal Kaizo: Crystal Kaizo now has it when you use a repel and it wears off it
 Also using a save editor like PKHEX will not work if you try to add items to your bag or PC.*
 
 
-Blue Kaizo: Game is in Full Color- Original graphics still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. The Gen 2 graphics have the caught indicator and exp bar as well. HMs are deletable. When Repels are done they will ask you if you want to use another. The Game Name now displays in Hall of Fame movie credit screen. Route 12 had a slight map change in one spot. 50 BAG SPACE. FINALLY, THE BIGGEST BLUE KAIZO CHANGE IS ELITE 4 AND CHAMPION AI STYLE AND POKEMON PARTIES WERE UPDATED BY SINISTERHOODEDFIGURE.
+Blue Kaizo: Game is in Full Color- Original graphics still exists too. You have the option to play it with Gen 1 graphics in full color or Gen 2 graphics in full color. The Gen 2 graphics have the caught indicator and exp bar as well. HMs are deletable. When Repels are done they will ask you if you want to use another. 151 Party Menu Icons. The Game Name now displays in Hall of Fame movie credit screen. Route 12 had a slight map change in one spot. 50 BAG SPACE. FINALLY, THE BIGGEST BLUE KAIZO CHANGE IS ELITE 4 AND CHAMPION AI STYLE AND POKEMON PARTIES WERE UPDATED BY SINISTERHOODEDFIGURE.
 
 *Note FOR BLUE KAIZO 50 BAG SPACE: This will alter save compatibility. All current items will be removed from bag or replaced by glitch items. If you want to keep your current save file, I suggest putting your important items in the PC first. Once you purchase a new item the bag space glitch items will disappear.
 
